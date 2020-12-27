@@ -18,7 +18,7 @@
 	<br>user：1234567 
 	<br>字典：
  	00000000 
-	 <br>111111111 
+	<br>111111111 
 	<br>1234567 
  	<br>6666666666 
  	<br>Aaaaaaaa 
@@ -38,11 +38,11 @@
 2. 登录后客户端可通过键盘输入向服务器发送数据； 
 3. 服务器端设置嗅探关键字，如果客户端发送的数据包含该关键字，即将该数据显示出来。 
 
-	举例： 
-	服务器设置关键字：密码 
-	客户端从键盘输入的数据 1：你好，我是张三 
-	客户端从键盘输入的数据 2：我的密码是 password 
-	服务器端显示：我的密码是 password
+	<br>举例： 
+	<br>服务器设置关键字：密码 
+	<br>客户端从键盘输入的数据 1：你好，我是张三 
+	<br>客户端从键盘输入的数据 2：我的密码是 password 
+	<br>服务器端显示：我的密码是 password
 
 5）防火墙系统 （client05+server05）
 1. 设计一个信息系统，系统必须通过客户端录入账号口令远程登录； 
@@ -76,7 +76,7 @@
 
 输入：set（1,2） 
 显示： 
-<img src="https://img-blog.csdnimg.cn/20201228003529487.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNTkyNw==,size_16,color_FFFFFF,t_70#pic_center" width="50%">
+<br><img src="https://img-blog.csdnimg.cn/20201228003529487.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNTkyNw==,size_16,color_FFFFFF,t_70#pic_center" width="50%">
 
 输入：verify 
 显示：登录成功
