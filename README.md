@@ -58,9 +58,9 @@ user：1234567
 12. 至少有三个以上的用户验证。 
 
 举例： 
-显示：请输入用户名 
-输入：user 
-显示：请输入验证图形 
+<br>显示：请输入用户名 
+<br>输入：user 
+<br>显示：请输入验证图形 
 
 <img src="https://img-blog.csdnimg.cn/20201228003058608.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNTkyNw==,size_16,color_FFFFFF,t_70#pic_center" width="50%">
 
